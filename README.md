@@ -15,3 +15,8 @@ bmp
 gif
 ico
 webp
+
+Disclaimer: Im not responsible for anything done with
+this code.
+
+-> Go to [im-a-teapot.de](http://im-a-teapot.de)
