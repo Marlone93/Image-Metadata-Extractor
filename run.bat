@@ -1,0 +1,2 @@
+python MetadataExtractor.py
+pause
